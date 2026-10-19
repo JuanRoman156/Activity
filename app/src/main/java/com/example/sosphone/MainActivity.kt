@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     /*
-    Cada vez que vuelve el Activity a la cabeza de la pila,
+    Cada vez que vuelve el Activity a la cabeza de la pila.
     debemos de volver a seleccionar el phone pasado mediante el intent
     desde el Activity 1.
      */
